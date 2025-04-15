@@ -1,4 +1,4 @@
-# PDDPsystem---Please Download at ‘Release’---→
+# PDDPsystem---Please Download .zip at ‘Release’---→
 Data preprocessing Tool system for Pupil Core-pupil diameter Raw Data
 
 🎉 Pupil Diameter Data Processing System (PDDP) Version: V.1.0🎉 Handbook
