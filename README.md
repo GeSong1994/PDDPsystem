@@ -1,5 +1,5 @@
 # PDDPsystem---Please Download .zip at ‘Release’---→
-Data preprocessing Tool system for Pupil Core-pupil diameter Raw Data
+Easy Data preprocessing Tool system for Pupil Core-pupil diameter Raw Data
 
 🎉 Pupil Diameter Data Processing System (PDDP) Version: V.1.0🎉 Handbook
 Developed by Ge Song, James Watt School of Engineering, University of Glasgow
