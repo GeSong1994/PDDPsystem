@@ -53,5 +53,5 @@ Ge Song
 ICE Research Group
 James Watt School of Engineering
 University of Glasgow
-ge-song-quantum-immersive-learning.owlstown.net
+https://ge-song-quantum-immersive-learning.owlstown.net
 www.iceresearch.org
