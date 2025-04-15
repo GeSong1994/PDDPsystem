@@ -5,7 +5,7 @@ Data preprocessing Tool system for Pupil Core-pupil diameter Raw Data
 Developed by Ge Song, James Watt School of Engineering, University of Glasgow
 
 📌 Welcome to use this system!
-This system has been developed for the pre-processing of pupil diameter data, mainly raw data collected by Pupil Core (Pupil Lab).
+This system is an easy tool for easy pupil diameter data preproceesing, mainly raw data collected by Pupil Core (Pupil Lab).
 
 Warning!!! Before using this system, please make sure that your raw data has been converted to a Fixed Format (see Example.csv provided). Opening the .exe program may take a few seconds but going from the import .csv file to the final export is just a click away and will take from only 1 to a few seconds depending on the amount of data you have.
 
